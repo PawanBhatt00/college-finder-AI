@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "iit-bombay",
+    "name": "Indian Institute of Technology Bombay",
+    "type": "IIT",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "website": "https://www.iitb.ac.in",
+    "nirfRank": 3,
+    "description": "IIT Bombay is one of India's premier engineering institutions, known for excellence in technology, research, and innovation. Located in the heart of Mumbai, it attracts the top engineering talent in the country."
+  },
+  {
+    "slug": "iit-delhi",
+    "name": "Indian Institute of Technology Delhi",
+    "type": "IIT",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "website": "https://www.iitd.ac.in",
+    "nirfRank": 2,
+    "description": "IIT Delhi is a world-class engineering institution located in the national capital. It is renowned for its cutting-edge research, strong alumni network, and outstanding placements."
+  },
+  {
+    "slug": "iit-madras",
+    "name": "Indian Institute of Technology Madras",
+    "type": "IIT",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "website": "https://www.iitm.ac.in",
+    "nirfRank": 1,
+    "description": "IIT Madras consistently ranks as India's top engineering institute. Located in Chennai, it is known for its research output, vibrant campus culture, and strong industry ties."
+  },
+  {
+    "slug": "iit-kanpur",
+    "name": "Indian Institute of Technology Kanpur",
+    "type": "IIT",
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "website": "https://www.iitk.ac.in",
+    "nirfRank": 4,
+    "description": "IIT Kanpur is renowned for its strong focus on basic sciences and engineering research. It has one of the largest campuses among IITs and exceptional academic programs."
+  },
+  {
+    "slug": "iit-kharagpur",
+    "name": "Indian Institute of Technology Kharagpur",
+    "type": "IIT",
+    "state": "West Bengal",
+    "city": "Kharagpur",
+    "website": "https://www.iitkgp.ac.in",
+    "nirfRank": 5,
+    "description": "The first IIT established in India, IIT Kharagpur has the largest campus and offers the widest variety of disciplines. It is a landmark institution in Indian engineering education."
+  },
+  {
+    "slug": "nit-trichy",
+    "name": "National Institute of Technology Tiruchirappalli",
+    "type": "NIT",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "website": "https://www.nitt.edu",
+    "nirfRank": 9,
+    "description": "NIT Trichy is consistently ranked among the top NITs in India. It has a strong tradition of academic excellence and outstanding placement records across engineering disciplines."
+  },
+  {
+    "slug": "nit-warangal",
+    "name": "National Institute of Technology Warangal",
+    "type": "NIT",
+    "state": "Telangana",
+    "city": "Warangal",
+    "website": "https://www.nitw.ac.in",
+    "nirfRank": 18,
+    "description": "NIT Warangal is one of the premier NITs with strong programs in Computer Science, Electronics, and Mechanical Engineering. It has an excellent campus and placement cell."
+  },
+  {
+    "slug": "nit-surathkal",
+    "name": "National Institute of Technology Karnataka",
+    "type": "NIT",
+    "state": "Karnataka",
+    "city": "Surathkal",
+    "website": "https://www.nitk.ac.in",
+    "nirfRank": 21,
+    "description": "NITK Surathkal is one of India's top NITs, situated on the beautiful Karnataka coast. Known for its strong industry connections and excellent research programs."
+  },
+  {
+    "slug": "iiit-hyderabad",
+    "name": "International Institute of Information Technology Hyderabad",
+    "type": "IIIT",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "website": "https://www.iiit.ac.in",
+    "nirfRank": 43,
+    "description": "IIIT Hyderabad is India's leading IIIT, known globally for its research in AI, computer vision, and language technologies. It produces some of India's top software engineers and researchers."
+  },
+  {
+    "slug": "iiit-delhi",
+    "name": "Indraprastha Institute of Information Technology Delhi",
+    "type": "IIIT",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "website": "https://www.iiitd.ac.in",
+    "nirfRank": 68,
+    "description": "IIIT Delhi is a research-driven institution focused on information technology and interdisciplinary engineering. Located in Delhi, it has strong industry partnerships and placement outcomes."
+  },
+  {
+    "slug": "bits-pilani",
+    "name": "Birla Institute of Technology and Science Pilani",
+    "type": "Private",
+    "state": "Rajasthan",
+    "city": "Pilani",
+    "website": "https://www.bits-pilani.ac.in",
+    "nirfRank": 27,
+    "description": "BITS Pilani is one of India's top private engineering institutes, known for its flexible curriculum, dual degree programs, and exceptional industry practice program (WILP and PS)."
+  },
+  {
+    "slug": "dtu-delhi",
+    "name": "Delhi Technological University",
+    "type": "State",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "website": "https://www.dtu.ac.in",
+    "nirfRank": 88,
+    "description": "DTU is one of Delhi's premier state engineering universities, offering a wide range of undergraduate and postgraduate programs with strong placement opportunities in the NCR region."
+  }
+]

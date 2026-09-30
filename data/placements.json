@@ -1,0 +1,49 @@
+[
+  { "collegeSlug": "iit-bombay", "year": 2024, "avgPackageLPA": 28.5, "medianPackageLPA": 22.0, "highestPackageLPA": 3.67, "placementPercent": 92 },
+  { "collegeSlug": "iit-bombay", "year": 2023, "avgPackageLPA": 26.8, "medianPackageLPA": 21.0, "highestPackageLPA": 3.14, "placementPercent": 90 },
+  { "collegeSlug": "iit-bombay", "year": 2022, "avgPackageLPA": 24.2, "medianPackageLPA": 19.5, "highestPackageLPA": 2.80, "placementPercent": 88 },
+
+  { "collegeSlug": "iit-delhi", "year": 2024, "avgPackageLPA": 31.2, "medianPackageLPA": 24.0, "highestPackageLPA": 4.20, "placementPercent": 93 },
+  { "collegeSlug": "iit-delhi", "year": 2023, "avgPackageLPA": 29.0, "medianPackageLPA": 22.5, "highestPackageLPA": 3.80, "placementPercent": 91 },
+  { "collegeSlug": "iit-delhi", "year": 2022, "avgPackageLPA": 26.5, "medianPackageLPA": 20.0, "highestPackageLPA": 3.40, "placementPercent": 89 },
+
+  { "collegeSlug": "iit-madras", "year": 2024, "avgPackageLPA": 29.8, "medianPackageLPA": 23.0, "highestPackageLPA": 3.90, "placementPercent": 91 },
+  { "collegeSlug": "iit-madras", "year": 2023, "avgPackageLPA": 27.5, "medianPackageLPA": 21.5, "highestPackageLPA": 3.50, "placementPercent": 90 },
+  { "collegeSlug": "iit-madras", "year": 2022, "avgPackageLPA": 25.0, "medianPackageLPA": 20.0, "highestPackageLPA": 3.10, "placementPercent": 88 },
+
+  { "collegeSlug": "iit-kanpur", "year": 2024, "avgPackageLPA": 27.6, "medianPackageLPA": 21.0, "highestPackageLPA": 3.60, "placementPercent": 89 },
+  { "collegeSlug": "iit-kanpur", "year": 2023, "avgPackageLPA": 25.8, "medianPackageLPA": 19.5, "highestPackageLPA": 3.20, "placementPercent": 87 },
+  { "collegeSlug": "iit-kanpur", "year": 2022, "avgPackageLPA": 23.5, "medianPackageLPA": 18.0, "highestPackageLPA": 2.90, "placementPercent": 86 },
+
+  { "collegeSlug": "iit-kharagpur", "year": 2024, "avgPackageLPA": 24.5, "medianPackageLPA": 19.0, "highestPackageLPA": 3.30, "placementPercent": 85 },
+  { "collegeSlug": "iit-kharagpur", "year": 2023, "avgPackageLPA": 22.8, "medianPackageLPA": 17.5, "highestPackageLPA": 2.95, "placementPercent": 83 },
+  { "collegeSlug": "iit-kharagpur", "year": 2022, "avgPackageLPA": 21.0, "medianPackageLPA": 16.5, "highestPackageLPA": 2.65, "placementPercent": 82 },
+
+  { "collegeSlug": "nit-trichy", "year": 2024, "avgPackageLPA": 16.5, "medianPackageLPA": 12.0, "highestPackageLPA": 1.10, "placementPercent": 87 },
+  { "collegeSlug": "nit-trichy", "year": 2023, "avgPackageLPA": 15.2, "medianPackageLPA": 11.0, "highestPackageLPA": 0.95, "placementPercent": 85 },
+  { "collegeSlug": "nit-trichy", "year": 2022, "avgPackageLPA": 14.0, "medianPackageLPA": 10.0, "highestPackageLPA": 0.85, "placementPercent": 83 },
+
+  { "collegeSlug": "nit-warangal", "year": 2024, "avgPackageLPA": 15.8, "medianPackageLPA": 11.5, "highestPackageLPA": 0.98, "placementPercent": 85 },
+  { "collegeSlug": "nit-warangal", "year": 2023, "avgPackageLPA": 14.6, "medianPackageLPA": 10.5, "highestPackageLPA": 0.88, "placementPercent": 83 },
+  { "collegeSlug": "nit-warangal", "year": 2022, "avgPackageLPA": 13.5, "medianPackageLPA": 9.8, "highestPackageLPA": 0.78, "placementPercent": 82 },
+
+  { "collegeSlug": "nit-surathkal", "year": 2024, "avgPackageLPA": 14.9, "medianPackageLPA": 11.0, "highestPackageLPA": 0.92, "placementPercent": 83 },
+  { "collegeSlug": "nit-surathkal", "year": 2023, "avgPackageLPA": 13.8, "medianPackageLPA": 10.0, "highestPackageLPA": 0.82, "placementPercent": 81 },
+  { "collegeSlug": "nit-surathkal", "year": 2022, "avgPackageLPA": 12.8, "medianPackageLPA": 9.2, "highestPackageLPA": 0.72, "placementPercent": 80 },
+
+  { "collegeSlug": "iiit-hyderabad", "year": 2024, "avgPackageLPA": 32.0, "medianPackageLPA": 26.0, "highestPackageLPA": 5.00, "placementPercent": 96 },
+  { "collegeSlug": "iiit-hyderabad", "year": 2023, "avgPackageLPA": 30.0, "medianPackageLPA": 24.0, "highestPackageLPA": 4.50, "placementPercent": 95 },
+  { "collegeSlug": "iiit-hyderabad", "year": 2022, "avgPackageLPA": 27.5, "medianPackageLPA": 22.0, "highestPackageLPA": 4.00, "placementPercent": 94 },
+
+  { "collegeSlug": "iiit-delhi", "year": 2024, "avgPackageLPA": 28.5, "medianPackageLPA": 22.0, "highestPackageLPA": 4.20, "placementPercent": 94 },
+  { "collegeSlug": "iiit-delhi", "year": 2023, "avgPackageLPA": 26.0, "medianPackageLPA": 20.5, "highestPackageLPA": 3.80, "placementPercent": 93 },
+  { "collegeSlug": "iiit-delhi", "year": 2022, "avgPackageLPA": 24.0, "medianPackageLPA": 19.0, "highestPackageLPA": 3.40, "placementPercent": 92 },
+
+  { "collegeSlug": "bits-pilani", "year": 2024, "avgPackageLPA": 26.0, "medianPackageLPA": 20.5, "highestPackageLPA": 4.80, "placementPercent": 90 },
+  { "collegeSlug": "bits-pilani", "year": 2023, "avgPackageLPA": 24.0, "medianPackageLPA": 19.0, "highestPackageLPA": 4.20, "placementPercent": 89 },
+  { "collegeSlug": "bits-pilani", "year": 2022, "avgPackageLPA": 22.0, "medianPackageLPA": 17.5, "highestPackageLPA": 3.80, "placementPercent": 88 },
+
+  { "collegeSlug": "dtu-delhi", "year": 2024, "avgPackageLPA": 14.5, "medianPackageLPA": 10.5, "highestPackageLPA": 0.85, "placementPercent": 82 },
+  { "collegeSlug": "dtu-delhi", "year": 2023, "avgPackageLPA": 13.2, "medianPackageLPA": 9.8, "highestPackageLPA": 0.75, "placementPercent": 80 },
+  { "collegeSlug": "dtu-delhi", "year": 2022, "avgPackageLPA": 12.0, "medianPackageLPA": 9.0, "highestPackageLPA": 0.68, "placementPercent": 78 }
+]

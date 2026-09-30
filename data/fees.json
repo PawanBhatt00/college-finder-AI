@@ -1,0 +1,49 @@
+[
+  { "collegeSlug": "iit-bombay", "year": 2024, "tuitionPerYear": 220000, "hostelPerYear": 75000, "otherFeesPerYear": 35000 },
+  { "collegeSlug": "iit-bombay", "year": 2023, "tuitionPerYear": 210000, "hostelPerYear": 70000, "otherFeesPerYear": 32000 },
+  { "collegeSlug": "iit-bombay", "year": 2022, "tuitionPerYear": 200000, "hostelPerYear": 65000, "otherFeesPerYear": 30000 },
+
+  { "collegeSlug": "iit-delhi", "year": 2024, "tuitionPerYear": 220000, "hostelPerYear": 72000, "otherFeesPerYear": 34000 },
+  { "collegeSlug": "iit-delhi", "year": 2023, "tuitionPerYear": 210000, "hostelPerYear": 68000, "otherFeesPerYear": 31000 },
+  { "collegeSlug": "iit-delhi", "year": 2022, "tuitionPerYear": 200000, "hostelPerYear": 63000, "otherFeesPerYear": 29000 },
+
+  { "collegeSlug": "iit-madras", "year": 2024, "tuitionPerYear": 220000, "hostelPerYear": 68000, "otherFeesPerYear": 32000 },
+  { "collegeSlug": "iit-madras", "year": 2023, "tuitionPerYear": 210000, "hostelPerYear": 64000, "otherFeesPerYear": 29000 },
+  { "collegeSlug": "iit-madras", "year": 2022, "tuitionPerYear": 200000, "hostelPerYear": 60000, "otherFeesPerYear": 27000 },
+
+  { "collegeSlug": "iit-kanpur", "year": 2024, "tuitionPerYear": 220000, "hostelPerYear": 65000, "otherFeesPerYear": 30000 },
+  { "collegeSlug": "iit-kanpur", "year": 2023, "tuitionPerYear": 210000, "hostelPerYear": 62000, "otherFeesPerYear": 28000 },
+  { "collegeSlug": "iit-kanpur", "year": 2022, "tuitionPerYear": 200000, "hostelPerYear": 58000, "otherFeesPerYear": 26000 },
+
+  { "collegeSlug": "iit-kharagpur", "year": 2024, "tuitionPerYear": 220000, "hostelPerYear": 60000, "otherFeesPerYear": 28000 },
+  { "collegeSlug": "iit-kharagpur", "year": 2023, "tuitionPerYear": 210000, "hostelPerYear": 57000, "otherFeesPerYear": 26000 },
+  { "collegeSlug": "iit-kharagpur", "year": 2022, "tuitionPerYear": 200000, "hostelPerYear": 53000, "otherFeesPerYear": 24000 },
+
+  { "collegeSlug": "nit-trichy", "year": 2024, "tuitionPerYear": 125000, "hostelPerYear": 48000, "otherFeesPerYear": 22000 },
+  { "collegeSlug": "nit-trichy", "year": 2023, "tuitionPerYear": 120000, "hostelPerYear": 45000, "otherFeesPerYear": 20000 },
+  { "collegeSlug": "nit-trichy", "year": 2022, "tuitionPerYear": 115000, "hostelPerYear": 42000, "otherFeesPerYear": 18000 },
+
+  { "collegeSlug": "nit-warangal", "year": 2024, "tuitionPerYear": 130000, "hostelPerYear": 45000, "otherFeesPerYear": 20000 },
+  { "collegeSlug": "nit-warangal", "year": 2023, "tuitionPerYear": 125000, "hostelPerYear": 42000, "otherFeesPerYear": 18000 },
+  { "collegeSlug": "nit-warangal", "year": 2022, "tuitionPerYear": 120000, "hostelPerYear": 40000, "otherFeesPerYear": 17000 },
+
+  { "collegeSlug": "nit-surathkal", "year": 2024, "tuitionPerYear": 128000, "hostelPerYear": 46000, "otherFeesPerYear": 21000 },
+  { "collegeSlug": "nit-surathkal", "year": 2023, "tuitionPerYear": 122000, "hostelPerYear": 43000, "otherFeesPerYear": 19000 },
+  { "collegeSlug": "nit-surathkal", "year": 2022, "tuitionPerYear": 117000, "hostelPerYear": 40000, "otherFeesPerYear": 17000 },
+
+  { "collegeSlug": "iiit-hyderabad", "year": 2024, "tuitionPerYear": 350000, "hostelPerYear": 85000, "otherFeesPerYear": 30000 },
+  { "collegeSlug": "iiit-hyderabad", "year": 2023, "tuitionPerYear": 335000, "hostelPerYear": 80000, "otherFeesPerYear": 28000 },
+  { "collegeSlug": "iiit-hyderabad", "year": 2022, "tuitionPerYear": 320000, "hostelPerYear": 76000, "otherFeesPerYear": 26000 },
+
+  { "collegeSlug": "iiit-delhi", "year": 2024, "tuitionPerYear": 320000, "hostelPerYear": 80000, "otherFeesPerYear": 28000 },
+  { "collegeSlug": "iiit-delhi", "year": 2023, "tuitionPerYear": 305000, "hostelPerYear": 76000, "otherFeesPerYear": 26000 },
+  { "collegeSlug": "iiit-delhi", "year": 2022, "tuitionPerYear": 290000, "hostelPerYear": 72000, "otherFeesPerYear": 24000 },
+
+  { "collegeSlug": "bits-pilani", "year": 2024, "tuitionPerYear": 550000, "hostelPerYear": 120000, "otherFeesPerYear": 40000 },
+  { "collegeSlug": "bits-pilani", "year": 2023, "tuitionPerYear": 520000, "hostelPerYear": 110000, "otherFeesPerYear": 36000 },
+  { "collegeSlug": "bits-pilani", "year": 2022, "tuitionPerYear": 490000, "hostelPerYear": 100000, "otherFeesPerYear": 33000 },
+
+  { "collegeSlug": "dtu-delhi", "year": 2024, "tuitionPerYear": 160000, "hostelPerYear": 55000, "otherFeesPerYear": 24000 },
+  { "collegeSlug": "dtu-delhi", "year": 2023, "tuitionPerYear": 150000, "hostelPerYear": 52000, "otherFeesPerYear": 22000 },
+  { "collegeSlug": "dtu-delhi", "year": 2022, "tuitionPerYear": 142000, "hostelPerYear": 49000, "otherFeesPerYear": 20000 }
+]

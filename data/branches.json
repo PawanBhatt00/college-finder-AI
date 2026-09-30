@@ -1,0 +1,71 @@
+[
+  { "collegeSlug": "iit-bombay", "name": "Computer Science and Engineering", "seatsTotal": 82 },
+  { "collegeSlug": "iit-bombay", "name": "Electrical Engineering", "seatsTotal": 74 },
+  { "collegeSlug": "iit-bombay", "name": "Mechanical Engineering", "seatsTotal": 68 },
+  { "collegeSlug": "iit-bombay", "name": "Civil Engineering", "seatsTotal": 55 },
+  { "collegeSlug": "iit-bombay", "name": "Engineering Physics", "seatsTotal": 40 },
+
+  { "collegeSlug": "iit-delhi", "name": "Computer Science and Engineering", "seatsTotal": 70 },
+  { "collegeSlug": "iit-delhi", "name": "Electrical Engineering", "seatsTotal": 65 },
+  { "collegeSlug": "iit-delhi", "name": "Mechanical Engineering", "seatsTotal": 72 },
+  { "collegeSlug": "iit-delhi", "name": "Chemical Engineering", "seatsTotal": 48 },
+  { "collegeSlug": "iit-delhi", "name": "Mathematics and Computing", "seatsTotal": 42 },
+
+  { "collegeSlug": "iit-madras", "name": "Computer Science and Engineering", "seatsTotal": 90 },
+  { "collegeSlug": "iit-madras", "name": "Electrical Engineering", "seatsTotal": 80 },
+  { "collegeSlug": "iit-madras", "name": "Mechanical Engineering", "seatsTotal": 75 },
+  { "collegeSlug": "iit-madras", "name": "Aerospace Engineering", "seatsTotal": 40 },
+  { "collegeSlug": "iit-madras", "name": "Engineering Design", "seatsTotal": 35 },
+
+  { "collegeSlug": "iit-kanpur", "name": "Computer Science and Engineering", "seatsTotal": 75 },
+  { "collegeSlug": "iit-kanpur", "name": "Electrical Engineering", "seatsTotal": 70 },
+  { "collegeSlug": "iit-kanpur", "name": "Mechanical Engineering", "seatsTotal": 68 },
+  { "collegeSlug": "iit-kanpur", "name": "Mathematics and Scientific Computing", "seatsTotal": 45 },
+  { "collegeSlug": "iit-kanpur", "name": "Chemical Engineering", "seatsTotal": 50 },
+
+  { "collegeSlug": "iit-kharagpur", "name": "Computer Science and Engineering", "seatsTotal": 88 },
+  { "collegeSlug": "iit-kharagpur", "name": "Electronics and Electrical Communication", "seatsTotal": 78 },
+  { "collegeSlug": "iit-kharagpur", "name": "Mechanical Engineering", "seatsTotal": 84 },
+  { "collegeSlug": "iit-kharagpur", "name": "Civil Engineering", "seatsTotal": 70 },
+  { "collegeSlug": "iit-kharagpur", "name": "Mining Engineering", "seatsTotal": 38 },
+
+  { "collegeSlug": "nit-trichy", "name": "Computer Science and Engineering", "seatsTotal": 120 },
+  { "collegeSlug": "nit-trichy", "name": "Electronics and Communication Engineering", "seatsTotal": 115 },
+  { "collegeSlug": "nit-trichy", "name": "Mechanical Engineering", "seatsTotal": 110 },
+  { "collegeSlug": "nit-trichy", "name": "Civil Engineering", "seatsTotal": 95 },
+  { "collegeSlug": "nit-trichy", "name": "Electrical and Electronics Engineering", "seatsTotal": 100 },
+
+  { "collegeSlug": "nit-warangal", "name": "Computer Science and Engineering", "seatsTotal": 130 },
+  { "collegeSlug": "nit-warangal", "name": "Electronics and Communication Engineering", "seatsTotal": 120 },
+  { "collegeSlug": "nit-warangal", "name": "Mechanical Engineering", "seatsTotal": 115 },
+  { "collegeSlug": "nit-warangal", "name": "Civil Engineering", "seatsTotal": 90 },
+  { "collegeSlug": "nit-warangal", "name": "Electrical Engineering", "seatsTotal": 100 },
+
+  { "collegeSlug": "nit-surathkal", "name": "Computer Science and Engineering", "seatsTotal": 115 },
+  { "collegeSlug": "nit-surathkal", "name": "Electronics and Communication Engineering", "seatsTotal": 110 },
+  { "collegeSlug": "nit-surathkal", "name": "Mechanical Engineering", "seatsTotal": 100 },
+  { "collegeSlug": "nit-surathkal", "name": "Civil Engineering", "seatsTotal": 85 },
+  { "collegeSlug": "nit-surathkal", "name": "Chemical Engineering", "seatsTotal": 75 },
+
+  { "collegeSlug": "iiit-hyderabad", "name": "Computer Science and Engineering", "seatsTotal": 100 },
+  { "collegeSlug": "iiit-hyderabad", "name": "Electronics and Communication Engineering", "seatsTotal": 60 },
+  { "collegeSlug": "iiit-hyderabad", "name": "Computer Science with Specialization in AI", "seatsTotal": 40 },
+  { "collegeSlug": "iiit-hyderabad", "name": "Data Science and AI", "seatsTotal": 35 },
+
+  { "collegeSlug": "iiit-delhi", "name": "Computer Science and Engineering", "seatsTotal": 95 },
+  { "collegeSlug": "iiit-delhi", "name": "Electronics and Communication Engineering", "seatsTotal": 55 },
+  { "collegeSlug": "iiit-delhi", "name": "Computer Science with Artificial Intelligence", "seatsTotal": 40 },
+  { "collegeSlug": "iiit-delhi", "name": "Computer Science and Biosciences", "seatsTotal": 30 },
+
+  { "collegeSlug": "bits-pilani", "name": "Computer Science", "seatsTotal": 120 },
+  { "collegeSlug": "bits-pilani", "name": "Electronics and Instrumentation", "seatsTotal": 80 },
+  { "collegeSlug": "bits-pilani", "name": "Electrical and Electronics Engineering", "seatsTotal": 85 },
+  { "collegeSlug": "bits-pilani", "name": "Mechanical Engineering", "seatsTotal": 90 },
+  { "collegeSlug": "bits-pilani", "name": "Chemical Engineering", "seatsTotal": 70 },
+
+  { "collegeSlug": "dtu-delhi", "name": "Computer Science and Engineering", "seatsTotal": 240 },
+  { "collegeSlug": "dtu-delhi", "name": "Electronics and Communication Engineering", "seatsTotal": 180 },
+  { "collegeSlug": "dtu-delhi", "name": "Mechanical Engineering", "seatsTotal": 160 },
+  { "collegeSlug": "dtu-delhi", "name": "Civil Engineering", "seatsTotal": 120 },
+  { "collegeSlug": "dtu-delhi", "name": "Software Engineering", "seatsTotal": 120 }
+]
