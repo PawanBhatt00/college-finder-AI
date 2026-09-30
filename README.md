@@ -27,18 +27,7 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000). The app can start without configuring external services. For persistent data, set `MONGODB_URI` in a local `.env.local` file. On an empty database, the app seeds its bundled JSON data automatically.
 
-Example `.env.local`:
 
-```dotenv
-MONGODB_URI=mongodb://127.0.0.1:27017/collegefinder_ai
-NEXTAUTH_SECRET=replace-with-a-long-random-secret
-
-# Optional: enable Google sign-in
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-
-# Optional: enable AI-generated chat replies
-OPENAI_API_KEY=
 ```
 
 | Variable | Required | Purpose |
